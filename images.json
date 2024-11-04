@@ -1,82 +1,82 @@
 {
     "images": [
         {
-            "imgPath": "img/places/australia.jpg",
-            "imgLocation": "Australia",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "imgPath": "img/places/RedWood.jpg",
+            "imgLocation": "Northern California",
+            "description": "The Redwood Forest",
+            "state": "CA"
         },
         {
-            "imgPath": "img/places/austria.jpg",
-            "imgLocation": "Austria",
-            "description": "Austrian chapel",
-            "date": "01/02/2016"
+            "imgPath": "img/places/SantaMonica.webp",
+            "imgLocation": "Los Angeles County",
+            "description": "The Santa Monica Pier",
+            "state": "CA"
         },
         {
-            "imgPath": "img/places/france.jpg",
-            "imgLocation": "Paris",
-            "description": "Eiffel Tower",
-            "date": "01/03/2016"
+            "imgPath": "img/places/GrandCanyon.avif",
+            "imgLocation": "Coconino County",
+            "description": "The Grand Canyon",
+            "state": "AZ"
         },
         {
-            "imgPath": "img/places/greece.jpg",
-            "imgLocation": "Greece",
-            "description": "Greek coastline",
-            "date": "01/04/2016"
+            "imgPath": "img/places/Yellowstone.jpg",
+            "imgLocation": "Park County",
+            "description": "Yellowstone National Park",
+            "state": "UT"
         },
         {
-            "imgPath": "img/places/hungary.jpg",
-            "imgLocation": "Hungary",
-            "description": "Budapest skyline",
-            "date": "01/05/2016"
+            "imgPath": "img/places/RockyMountains.jpg",
+            "imgLocation": "Western Unites States",
+            "description": "The Rocky Mountains",
+            "state": "CO"
         },
         {
-            "imgPath": "img/places/india.jpg",
-            "imgLocation": "India",
-            "description": "Taj Mahal",
-            "date": "01/06/2016"
+            "imgPath": "img/places/NorthernLights.jpg",
+            "imgLocation": "Northern Alaska",
+            "description": "The Northern Lights",
+            "state": "AK"
         },
         {
-            "imgPath": "img/places/italy.jpg",
-            "imgLocation": "Italy",
-            "description": "Venice",
-            "date": "01/07/2016"
+            "imgPath": "img/places/Hawaii.jpg",
+            "imgLocation": "Maui",
+            "description": "Hawaiian Beaches",
+            "state": "HI"
         },
         {
-            "imgPath": "img/places/japan.jpg",
-            "imgLocation": "Japan",
-            "description": "Hirosaki Castle",
-            "date": "01/08/2016"
+            "imgPath": "img/places/GreatPlains.jpg",
+            "imgLocation": "Central United States",
+            "description": "The Great Plains",
+            "state": "NE"
         },
         {
-            "imgPath": "img/places/korea.jpg",
-            "imgLocation": "South Korea",
-            "description": "Seoul",
-            "date": "01/09/2016"
+            "imgPath": "img/places/MartyGras.jpg",
+            "imgLocation": "New Orleans",
+            "description": "Marty Gras",
+            "state": "LA"
         },
         {
-            "imgPath": "img/places/norway.jpg",
-            "imgLocation": "Norway",
-            "description": "Countryside mountains",
-            "date": "01/10/2016"
+            "imgPath": "img/places/LakeMichigan.jpg",
+            "imgLocation": "The Great Lake Basin",
+            "description": "Lake Michigan",
+            "state": "MI"
         },
         {
-            "imgPath": "img/places/switzerland.jpg",
-            "imgLocation": "Switzerland",
-            "description": "Lake castle",
-            "date": "01/11/2016"
+            "imgPath": "img/places/NYC.jpg",
+            "imgLocation": "Manhattan Island",
+            "description": "The New York City Skyline",
+            "state": "NY"
         },
         {
-            "imgPath": "img/places/thailand.jpg",
-            "imgLocation": "Thailand",
-            "description": "Beachline",
-            "date": "01/12/2016"
+            "imgPath": "img/places/Everglades.jpg",
+            "imgLocation": "Southern Florida",
+            "description": "The Florida Everglades",
+            "state": "FL"
         },
         {
-            "imgPath": "img/places/turkey.jpg",
-            "imgLocation": "Turkey",
-            "description": "Istanbul",
-            "date": "01/13/2016"
+            "imgPath": "img/places/Maine.webp",
+            "imgLocation": "New England",
+            "description": "Maine in Autumn",
+            "state": "ME"
         }
   ]
 }
