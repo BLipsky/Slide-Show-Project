@@ -17,7 +17,6 @@ $(document).ready(() => {
   // Call fetchJSON() to load the initial set of images
   fetchJSON();
 });
-
 // Function to fetch JSON data and store it in mImages
 function fetchJSON() {
   $.ajax({
