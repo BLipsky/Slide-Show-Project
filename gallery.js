@@ -29,7 +29,6 @@ function fetchJSON() {
     },
   });
 }
-
 // Function to swap and display the next photo in the slideshow
 function swapPhoto() {
   let image = mImages[mCurrentIndex];
