@@ -26,8 +26,7 @@ body {
 /* Style for the photo displayed in the slideshow */
 .thumbnail {
     width: 100%;
-    max-width: 100%;
-    height: auto;
+    height: 50vw;
     border-radius: 4px;
     /* Optional: Add shadow here */
 }
@@ -81,7 +80,7 @@ Make it animate nicely. You'll need CSS3 for this */
 /* Add CSS styles to rotate the element 180deg
 Make it animate nicely. You'll need CSS3 for this */
 .rot180 {
-    /* Add 180-degree rotation */
+    -webkit-transform: scaleX(-1);
 }
 
 /* Add CSS styles to rotate the element 270deg
