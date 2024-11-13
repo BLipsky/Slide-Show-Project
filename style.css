@@ -26,7 +26,7 @@ body {
 /* Style for the photo displayed in the slideshow */
 .thumbnail {
     width: 100%;
-    height: 50vw;
+    height: 20rem;
     border-radius: 4px;
     /* Optional: Add shadow here */
 }
