@@ -16,7 +16,6 @@ body {
     border-radius: 8px;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Add shadow */
 }
-
 /* Holds the displayed photo */
 .photoHolder {
     width: 100%;
