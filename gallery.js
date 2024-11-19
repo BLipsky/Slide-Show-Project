@@ -9,7 +9,7 @@ $(document).ready(() => {
   fetchJSON();
 
   $(".moreIndicator").on("click", function() {
-    $(this).toggleClass("rot90 rot270");
+    $(this).toggleClass("rot90");
     $(".details").slideToggle();
   });
 });
@@ -63,3 +63,4 @@ function startTimer() {
     timer = setInterval(showNextPhoto, mWaitTime);
   });
 }
+
